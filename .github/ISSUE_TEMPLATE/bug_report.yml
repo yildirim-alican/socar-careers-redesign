@@ -1,0 +1,44 @@
+name: Hata bildirimi
+description: Görsel, işlevsel veya erişilebilirlik sorunu
+title: "[Hata]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Lütfen hatayı mümkün olduğunca ayrıntılı açıklayın. Canlı demo: https://yildirim-alican.github.io/socar-careers-redesign/
+  - type: dropdown
+    id: page
+    attributes:
+      label: Etkilenen sayfa
+      options:
+        - Ana sayfa
+        - SOCAR Türkiye
+        - SOCAR'da Hayat
+        - Genç Yetenekler
+        - SOCAR'da Gelişim
+        - Programlar
+        - İş Fırsatları
+        - Diğer
+  - type: textarea
+    id: description
+    attributes:
+      label: Sorun açıklaması
+      description: Ne oldu, ne olması gerekiyordu?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Yeniden oluşturma adımları
+      placeholder: "1. ...\n2. ..."
+  - type: input
+    id: browser
+    attributes:
+      label: Tarayıcı / cihaz
+      placeholder: "Chrome 125, Windows 11 / iPhone Safari"
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Ekran görüntüsü
+      description: Varsa ekleyin

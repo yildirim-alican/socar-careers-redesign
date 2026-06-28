@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Canlı demo
+    url: https://yildirim-alican.github.io/socar-careers-redesign/
+    about: GitHub Pages üzerinde yayınlanan prototip
+  - name: Orijinal SOCAR Kariyer sitesi
+    url: https://careers.socar.com.tr/
+    about: Resmî referans site

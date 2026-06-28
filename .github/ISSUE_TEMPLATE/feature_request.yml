@@ -1,0 +1,29 @@
+name: İyileştirme önerisi
+description: Tasarım, içerik veya teknik iyileştirme fikri
+title: "[Öneri]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Bu depo bir tasarım prototipidir. SOCAR markası ve kurumsal içerik değişiklikleri kurum onayı gerektirir.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Hangi ihtiyacı karşılıyor?
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Önerilen çözüm
+    validations:
+      required: true
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Öncelik
+      options:
+        - Düşük
+        - Orta
+        - Yüksek

@@ -1,0 +1,116 @@
+[
+  {
+    "file": "socar-turkiye-kariyer-banner.webp",
+    "src": "assets/img/socar-turkiye-kariyer-banner.webp",
+    "alt": "SOCAR Türkiye kariyer — enerji sektöründe çalışan mühendisler ve tesisler",
+    "usedIn": ["index.html#kariyer-hero"]
+  },
+  {
+    "file": "socar-kariyer.webp",
+    "src": "assets/img/socar-kariyer.webp",
+    "alt": "SOCAR Türkiye Kariyer — og:image",
+    "usedIn": ["index.html meta"]
+  },
+  {
+    "file": "socar-kariyer-enerjimiz-cesitlilik.webp",
+    "src": "assets/img/socar-kariyer-enerjimiz-cesitlilik.webp",
+    "alt": "SOCAR Türkiye Enerjimiz Çeşitlilik",
+    "usedIn": ["index.html#enerjimiz-cesitlilik"]
+  },
+  {
+    "file": "socar-turkiye-degerler.webp",
+    "src": "assets/img/socar-turkiye-degerler.webp",
+    "alt": "SOCAR Türkiye Değerlerimiz",
+    "usedIn": ["index.html#degerlerimiz"]
+  },
+  {
+    "file": "socar-turkiye-iyiliginiz-bizim-icin-onemli.webp",
+    "src": "assets/img/socar-turkiye-iyiliginiz-bizim-icin-onemli.webp",
+    "alt": "SOCAR Türkiye — İyiliğiniz bizim için önemli",
+    "usedIn": ["index.html#iyiliginiz-onemli"]
+  },
+  {
+    "file": "socar-iste-deneyim.webp",
+    "src": "assets/img/socar-iste-deneyim.webp",
+    "alt": "SOCAR Türkiye İşte Deneyim",
+    "usedIn": ["index.html#iste-deneyim"]
+  },
+  {
+    "file": "socar-turkiye-saha.webp",
+    "src": "assets/img/socar-turkiye-saha.webp",
+    "alt": "SOCAR Türkiye entegre saha ve rafineri tesisleri",
+    "usedIn": ["socar-turkiye.html"]
+  },
+  {
+    "file": "socar-vadi-istanbul.webp",
+    "src": "assets/img/socar-vadi-istanbul.webp",
+    "alt": "SOCAR Türkiye Vadi İstanbul ofis",
+    "usedIn": ["socar-turkiye.html"]
+  },
+  {
+    "file": "socar-hayat-giris.webp",
+    "src": "assets/img/socar-hayat-giris.webp",
+    "alt": "SOCAR'da Hayat giriş görseli",
+    "usedIn": ["sokarda-hayat.html"]
+  },
+  {
+    "file": "socar-gonulluleri.webp",
+    "src": "assets/img/socar-gonulluleri.webp",
+    "alt": "SOCAR Türkiye Gönüllüleri",
+    "usedIn": ["sokarda-hayat.html#gonullulerimiz"]
+  },
+  {
+    "file": "socar-hayat-enerjimiz-cesitlilik.webp",
+    "src": "assets/img/socar-hayat-enerjimiz-cesitlilik.webp",
+    "alt": "SOCAR'da Hayat Enerjimiz Çeşitlilik",
+    "usedIn": ["sokarda-hayat.html"]
+  },
+  {
+    "file": "socar-hayat-iste-takdir.webp",
+    "src": "assets/img/socar-hayat-iste-takdir.webp",
+    "alt": "SOCAR İşte Takdir",
+    "usedIn": ["sokarda-hayat.html"]
+  },
+  {
+    "file": "socar-hayat-turkiye-avantajlar.webp",
+    "src": "assets/img/socar-hayat-turkiye-avantajlar.webp",
+    "alt": "SOCAR çalışan avantajları",
+    "usedIn": ["sokarda-hayat.html"]
+  },
+  {
+    "file": "socar-academy-banner.webp",
+    "src": "assets/img/socar-academy-banner.webp",
+    "alt": "SOCAR Türkiye Academy banner",
+    "usedIn": ["sokarda-gelisim.html", "programlar-ve-is-birlikleri.html"]
+  },
+  {
+    "file": "socar-academy-altbilgi-milestones.webp",
+    "src": "assets/img/socar-academy-altbilgi-milestones.webp",
+    "alt": "SOCAR Academy milestonelar",
+    "usedIn": ["sokarda-gelisim.html"]
+  },
+  {
+    "file": "socar-misyon-vizyon.webp",
+    "src": "assets/img/socar-misyon-vizyon.webp",
+    "alt": "SOCAR Academy misyon ve vizyon",
+    "usedIn": ["sokarda-gelisim.html"]
+  },
+  {
+    "file": "socar-genc-yetenek-giris.webp",
+    "src": "assets/img/socar-genc-yetenek-giris.webp",
+    "alt": "Genç Yetenekler giriş",
+    "usedIn": ["genc-yetenekler.html"]
+  },
+  {
+    "file": "socar-nextgen-talks.webp",
+    "src": "assets/img/socar-nextgen-talks.webp",
+    "alt": "Next Gen Talks",
+    "usedIn": ["genc-yetenekler.html"]
+  },
+  {
+    "file": "socar-programlar.webp",
+    "src": "assets/img/socar-programlar.webp",
+    "alt": "Programlar ve İş Birlikleri",
+    "usedIn": ["programlar-ve-is-birlikleri.html"]
+  }
+]
